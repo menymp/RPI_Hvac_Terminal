@@ -1,3 +1,5 @@
+#example of coment inside autostart example for clone test
+#menymp 10 jan 2023
 from tkinter import *
 
 window = Tk()
